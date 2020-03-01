@@ -11,16 +11,16 @@ An attempt to create a package in Python that contains easy plugins for common d
 - Basics of data structures and algorithms
 ### How to contribute:
 
-**1.** Fork [this](https://github.com/smaranjitghose/girlscript_app) repository.
+**1.** Fork [this](https://github.com/smaranjitghose/pyalgocheat) repository.
 
 **2.** Clone the forked repository.
 ```terminal
-git clone https://github.com/<your-github-username>/girlscript_app
+git clone https://github.com/<your-github-username>/pyalgocheat
 ```
 
 **3.** Navigate to the project directory.
 ```terminal
-cd girlscript_app
+cd pyalgocheat
 ```
 
 **4.** Create a new branch.
@@ -28,7 +28,7 @@ cd girlscript_app
 git checkout -b <your_branch_name>
 ```
 
-**5.** Make changes in source code.
+**5.** Make changes in source code/Create something new.
 
 **6.** Commit your changes.
 
@@ -44,7 +44,7 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**9.** **Congratulations!** you've made your contribution to [PyAlgoCheat](https://github.com/smaranjitghose/PyAlgoCheat) project.
+**9.** **Congratulations!** you've made your contribution to [PyAlgoCheat](https://github.com/smaranjitghose/pyalgocheat) project.
 
 
 ## Project Admin:
